@@ -1,0 +1,7 @@
+git init
+git user.name
+git user. email
+git status
+git add.
+git commit ""
+git 
