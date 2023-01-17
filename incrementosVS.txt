@@ -1,0 +1,13 @@
+
+	Tarefa vs code Marco Bigelli
+
+	
+	Instalei no meu VSCode as seguintes extenções:
+	
+	- Portuguese Language Pack - Tradução do VSCode
+	- LiveServer - para rodar o código no navegador em tempo real.
+	- Tema Visual chamado Dracula Offical - para melhor conforto visual e destaque das palavras reservadas no VSCode
+	- Python Extension Packed - para usar a linguagem python no VSCode
+	- vscode-icons - para incrementar o visual.
+	
+	
